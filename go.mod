@@ -1,4 +1,4 @@
-module prometheus-deco-exporter
+module github.com/hxii/prometheus-deco-exporter
 
 go 1.17
 
